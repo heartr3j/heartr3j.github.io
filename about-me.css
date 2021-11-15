@@ -1,0 +1,12 @@
+body {
+    background-color: #EADEB8;
+    text-align: center;
+     display: inline-block;
+     margin-left: 30%;
+     margin-top: 20%;
+}
+
+h1 {
+    text-align: center;
+    margin: 35px 0 20px 0 !important;
+  }
